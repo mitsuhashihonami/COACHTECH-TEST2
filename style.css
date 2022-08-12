@@ -1,0 +1,42 @@
+.head-list{
+  display: flex;
+    justify-content: flex-end;
+}
+.head-list li{
+list-style: none;
+  float: left;
+  color: blue;
+ padding: 30px 20px;
+}
+.head-logo{
+  color: blue;
+  float: left;
+  padding: 30px 40px;
+  font-size: larger;
+}
+.p{
+  margin-top: 250px;
+  
+  font-size: 500%;
+
+}
+.box{
+  box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.ble-box{
+  position: relative;
+  left: 0px;
+  width: 70vw;
+  height: 15vw;
+  background-color: #000080;
+}
+.box img{
+  width: 50vw;
+  height: 35vw;
+  position: absolute;
+  right: 0px;
+  top: 200px;
+
+}
